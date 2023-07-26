@@ -1,0 +1,3 @@
+local table1 = {
+  ["Hey"] = {Key = "BubbleGum", blocked = false}
+}
